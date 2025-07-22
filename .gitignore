@@ -1,0 +1,7 @@
+# Ignore data and model files
+data/
+models/
+
+# Ignore Python cache
+__pycache__/
+*.pyc 
