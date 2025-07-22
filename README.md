@@ -5,7 +5,7 @@ This project classifies emails as spam or not spam using machine learning algori
 ## Project Structure
 
 ```
-your_project/
+project/
 ├── src/
 │   ├── add_header.py
 │   ├── data_loader.py
